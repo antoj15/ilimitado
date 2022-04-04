@@ -11,32 +11,32 @@
   "website": "https://github.com/Nenirey/simplebot_tg",
   "repository": "https://github.com/Nenirey/simplebot_tg",
   "env": {
-    "ADMIN": {
+    "ADMIN": {toni8790
       "description": "Your own email as bot administrator",
       "value": ""
     },    
-    "ADDR": {
+    "ADDR": {amaguilar@uclv.cu
       "description": "The email bot with imap enabled",
       "value": ""
     },
-    "PASSWORD": {
+    "PASSWORD": {Al2+1425
       "description": "The email bot password",
       "value": ""
     },
-    "API_ID": {
+    "API_ID": {14586634
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH": {76be0d3cbc21ba384b593a012f6ee9c0
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "DBXTOKEN": {
+    "DBXTOKEN": {sl.BFEQriYwuavhWJ7kt3OYHfZJEtgpx8uLhHuZ3tZwNu2vNdhfYFog3B5TtwmwyTG0U7ArE1f0aYDzJeJoaP9tWpLei4vMv5mXfilt6kfSqmeTzHc63nmllp19sBt20s8y8jTNALo
       "description": "Get this value from https://www.dropbox.com/developers/apps/create",
       "required": false,
       "value": ""
     },
-    "APP_KEY": {
+    "APP_KEY": {z2q7bxpje0mt2hy
       "description": "Get this value from https://www.dropbox.com/developers/apps/create",
       "required": false,
       "value": ""
