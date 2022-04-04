@@ -11,11 +11,11 @@
   "website": "https://github.com/Nenirey/simplebot_tg",
   "repository": "https://github.com/Nenirey/simplebot_tg",
   "env": {
-    "ADMIN": {toni8790
+    "ADMIN": {amaguilar@uclv.cu
       "description": "Your own email as bot administrator",
       "value": ""
     },    
-    "ADDR": {amaguilar@uclv.cu
+    "ADDR": {telegram665bot
       "description": "The email bot with imap enabled",
       "value": ""
     },
