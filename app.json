@@ -11,7 +11,7 @@
   "website": "https://github.com/Nenirey/simplebot_tg",
   "repository": "https://github.com/Nenirey/simplebot_tg",
   "env": {
-    "ADMIN": {amaguilar@uclv.cu
+    "ADMIN": {toni8790
       "description": "Your own email as bot administrator",
       "value": ""
     },    
