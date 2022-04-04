@@ -15,7 +15,7 @@
       "description": "Your own email as bot administrator",
       "value": ""
     },    
-    "ADDR": {telegram665bot
+    "ADDR": {amaguilar@uclv.cu
       "description": "The email bot with imap enabled",
       "value": ""
     },
